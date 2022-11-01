@@ -24,3 +24,11 @@ Animated Product Card UI Page
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/stack-overflow.png"/>&nbsp;
 </a>
 
+
+# Tech-Stack Used..
+[<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="60" height="60"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="60" height="60"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>](https://github.com/AnshSinghSonkhia/Facebook-Sign-up-Page-Clone-Using-TailwindCSS/blob/master/README.md)
+
+<!--<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="60" height="60"/>&nbsp;-->
+
+![](https://i.imgur.com/waxVImv.png)
